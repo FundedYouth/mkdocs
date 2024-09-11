@@ -1,6 +1,6 @@
 # Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> ## "Please replace the content on this page. Make it look like GitHub Docs Home Page"
 
 ## Commands
 
