@@ -1,0 +1,13 @@
+/* .md-header {
+    opacity: 0.9;
+} */
+.md-header nav {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 2rem;
+}
+.md-tabs {
+    opacity: 0.9;
+}
