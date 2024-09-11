@@ -1,0 +1,76 @@
+site_name: FundedYouth Docs
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.mark
+  - attr_list
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: deep purple
+      accent: teal
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: deep purple
+      accent: teal
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/FundedYouthOrg
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/FundedYouth/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/FundedYouth
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/fundedyouth/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@FundedYouth
+
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://FundedYouth.org">FundedYouth 501(c)3</a>
+
+extra_css:
+  - stylesheets/style.css
+
+nav:
+  - Home:
+      - index.md
+  - Hands-on Instruction:
+      - tutorials/index.md
+  - Instructor Materials:
+      - instructors/index.md
+  - Nonprofit Resources:
+      - nonprofit/index.md
