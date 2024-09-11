@@ -8,6 +8,13 @@ FundedYouth has partnered with RCL to provide the public access to a maker space
 
 ### Members
 
+    Members get exclusive benefits and special pricing
+
+- [x] $10 per stage in a course/class
+- [x] $ 30/month to access open labs (can only access hardware that you are certified in)
+- [x] $1 per-hour for each 3D Printer priced-per-hour
+- [x] 1-month free membership with each certification completed
+
 ### Non-Members
 
 ### Price Comparison
