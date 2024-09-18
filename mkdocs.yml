@@ -20,6 +20,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - md_in_html
 
 theme:
   name: material
@@ -29,13 +30,15 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
-    - navigation.sections
+    - navigation.indexes
+    # - navigation.path
+    # - navigation.sections
     - search.suggest
     - search.highlight
     - toc.integrate
-    - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tabs.link
   palette:
     - scheme: default
       toggle:
@@ -67,12 +70,3 @@ copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</sc
 
 extra_css:
   - stylesheets/style.css
-# nav:
-#   - Home:
-#       - index.md
-#   - Hands-on Instruction:
-#       - tutorials/index.md
-#   - Instructor Materials:
-#       - instructors/index.md
-#   - Nonprofit Resources:
-#       - nonprofit/index.md
