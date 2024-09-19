@@ -1,6 +1,7 @@
 ---
 Title: Branding
 ---
+# :simple-excalidraw: Branding
 
 Just like any other company, FundedYouth has its own color scheme for its logo and brands. The only difference is we aren't that stingy with the colors. All we ask is that if you plan to use it, you reach and ask or atleast give a link back to us.
 
