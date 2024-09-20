@@ -1,5 +1,5 @@
 ---
-title: Adding the Sovol SV06 Plus 3D Printer Profile to the Cura Slicing Software
+title: Adding the Sovol SV06+ to Cura
 date: 2024-02-23
 authors:
   - ryan_jones
