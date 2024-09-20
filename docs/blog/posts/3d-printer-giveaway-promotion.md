@@ -9,9 +9,9 @@ authors:
 
 ![](https://fundedyouth.org/wp-content/uploads/2024/09/promo.jpg){width="500", loading-lazy}
 
-[FundedYouth 3D Printer Giveaway Promotion Details :material-rocket-launch:](https://givebutter.com/fundedyouth3dprinterpromo){ .md-button }
+Enter the FundedYouth 3D Printer Giveaway for a chance to win a Sovol SV07 3D printer, filament, and a free class! No purchase necessary. Donate, attend a class, or subscribe to our newsletter to enter. <!-- more -->
 
-Enter the FundedYouth 3D Printer Giveaway for a chance to win a Sovol SV07 3D printer, filament, and a free class! No purchase necessary. Donate, attend a class, or subscribe to our newsletter to enter.
+[FundedYouth 3D Printer Giveaway Promotion Details :material-rocket-launch:](https://givebutter.com/fundedyouth3dprinterpromo){ .md-button }
 
 !!! warning "Drawing on October 15th—don’t miss out!"
 
