@@ -20,7 +20,7 @@ As a nonprofit we understand the importance of transparency, which is why this p
 
     View the topics and approvals for each year and month discussed during our board meetings.
 
-    [:octicons-arrow-right-24: Review minutes](#)
+    [:octicons-arrow-right-24: Review minutes](./Meetings_and_Minutes/)
 
 
 -   :material-finance:{ .lg .middle } __Finances__

@@ -33,7 +33,7 @@ Welcome to the Official FundedYouth Docs. This site is designed as a public tool
 
     Access FundedYouth's past board meetings and minutes, pricing models, finances, services, and more.
 
-    [:octicons-arrow-right-24: Read more](./nonprofit/README.md)
+    [:octicons-arrow-right-24: Read more](./nonprofit/)
 
 </div>
 
