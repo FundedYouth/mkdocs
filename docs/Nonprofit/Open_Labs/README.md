@@ -1,5 +1,5 @@
 ---
-title: Open Labs
+title: Overview
 ---
 
 # :fontawesome-solid-door-open: Get Started
@@ -8,7 +8,7 @@ FundedYouth has partnered with RCL to provide the public access to a maker space
 
 ## Members vs. Non-Members
 
-To access the open labs for either members or non-members you are required to be certified to access each area. If you have no desire to get certified and just want to 3D print your file we offer an alternative service through [RCLasercraft (RCL) ](./RCL_Pricing_Model.md)
+To access the open labs for either members or non-members you are required to be certified to access each area. If you have no desire to get certified and just want to 3D print your file we offer an alternative service through [RCLasercraft (RCL) ](../External_Services/RCL_Pricing_Model.md)
 
 ## Pricing Model Example
 
@@ -46,5 +46,5 @@ To access the open labs for either members or non-members you are required to be
 
     This option still set's the 3D printing price to **$2.00/hour**.
 
-    However, customers under this model are subject to the B2C [RCLasercraft Pricing Models](./RCL_Pricing_Model.md).
+    However, customers under this model are subject to the B2C [RCLasercraft Pricing Models](../External_Services/RCL_Pricing_Model.md).
 

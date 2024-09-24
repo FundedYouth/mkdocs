@@ -10,7 +10,7 @@ While FundedYouth works with these companies for the mission it does not share o
 
 ## Companies and Services
 
-- RCLasercraft
+- RCLasercraft.com | [Example Pricing Models](./RCL_Pricing_Model.md)
 - GiveButter.com
 - PointApp.com
 - Microsoft Office365 and Azure
