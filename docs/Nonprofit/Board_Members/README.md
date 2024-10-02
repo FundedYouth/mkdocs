@@ -33,10 +33,9 @@ As a nonprofit we understand the importance of transparency, which is why this p
 
 </div>
 
-## Discussions
+## Latest Discussions
 
-- Parkway Plaza Mall Space in El Cajon, CA
-- Parkway Plaza Floor Design
+- [October 1st 2024](./Meetings_and_Minutes/2024.md)
 
 ## Members
 
