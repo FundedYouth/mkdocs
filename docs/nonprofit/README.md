@@ -30,13 +30,13 @@ FundedYouth recognizes that as a nonprofit transparency is key. Therefore we cre
 
     [:octicons-arrow-right-24: Read more](../Nonprofit/External_Services/)
 
--   :material-account-group:{ .lg .middle } __Board Meetings__
+-   :material-account-group:{ .lg .middle } __Members and Meetings__
 
     ---
 
     The services used by FundedYouth and companies we've partnered with. Full transparency is of our utmost importance.
 
-    [:octicons-arrow-right-24: View now](../Nonprofit/Active_Board/)
+    [:octicons-arrow-right-24: View now](../Nonprofit/Board_Members/)
 
 </div>
 
