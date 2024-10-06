@@ -17,7 +17,7 @@ Welcome to the Official FundedYouth Docs. This site is designed as a public tool
 
     FundedYouth provides all of its instruction free for public consumption. This covers our tutorial, challenges, and course content.
 
-    [:octicons-arrow-right-24: Browse content](./tutorials/README.md)
+    [:octicons-arrow-right-24: Browse content](./Tutorials/README.md)
 
 -   :material-file-document-multiple:{ .lg .middle } __Instructor Materials__
 
@@ -25,7 +25,7 @@ Welcome to the Official FundedYouth Docs. This site is designed as a public tool
 
     Content formatted explicity for teachers in a classroom environment. Designed for our FundedYouth certified teachers.
 
-    [:octicons-arrow-right-24: View details](./instructors/README.md)
+    [:octicons-arrow-right-24: View details](./Instructors/README.md)
 
 -   :material-clipboard-check-multiple:{ .lg .middle } __Nonprofit Resources__
 
@@ -33,7 +33,7 @@ Welcome to the Official FundedYouth Docs. This site is designed as a public tool
 
     Access FundedYouth's past board meetings and minutes, pricing models, finances, services, and more.
 
-    [:octicons-arrow-right-24: Read more](./nonprofit/)
+    [:octicons-arrow-right-24: Read more](./Nonprofit/)
 
 </div>
 
