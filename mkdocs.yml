@@ -30,13 +30,13 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-    - navigation.top
+    # - navigation.top
     - navigation.tabs
-    # - navigation.indexes
-    - navigation.path
+    - navigation.indexes
+    # - navigation.path
     - search.suggest
     - search.highlight
-    - toc.integrate
+    # - toc.integrate
     - content.code.annotation
     - content.code.copy
     - content.tabs.link

@@ -1,5 +1,5 @@
 ---
-title: _Get Started
+title: Get Started
 ---
 
 !!! info "Work in progress"
