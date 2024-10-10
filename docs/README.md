@@ -52,6 +52,14 @@ Learn about the latest projects we are working on at FundedYouth. These projects
 
 ### Working on :hammer:
 
+???+ example "Parkway Plaza Mall Public STEAM Lab/Makerspace"
+
+    ![](https://givebutter.s3.amazonaws.com/media/PUpfPCb1iG598dfInTBK5XJqHPFjBebTQZzD9XOI.png){width="500"}
+
+    We need financial help with building out a public space at Parkway Plaza Mall in El Cajon, CA. This space would be ideal for the community.
+
+    [Learn more about the space](https://givebutter.com/WRR25x){ .md-button }
+
 ??? example "Remix Challenges"
 
     The [Remix Challenge](../../Tutorials/Remix_Challenge/) is a weekly recreation of an existing 3D object for print that we found. Once we find a model to our liking, we attempt to recreate it and 3D print it. Once the 3D print is proven we create a step-by-step tutorial on how to create it yourself. We also make sure to give full credit to the original author.
