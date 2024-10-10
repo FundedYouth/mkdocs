@@ -26,5 +26,14 @@ title: Get Started
     [:octicons-arrow-right-24: Learn more](#)
 
 
+-   :material-autorenew:{ .lg .middle } __Remix Challenges__
+
+    ---
+
+    Recreations of existing products converted into step-by-step tutorials. 3D Printed, Lasercraft, and more.
+
+    [:octicons-arrow-right-24: Learn more](./Remix_Challenge/)
+
+
 
 </div>
