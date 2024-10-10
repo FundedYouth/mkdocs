@@ -37,6 +37,46 @@ Welcome to the Official FundedYouth Docs. This site is designed as a public tool
 
 </div>
 
+---
+
 ## Questions and Inquiries
 
 If you have any question, we ask that you reach out to [info@fundedyouth.org](https://fundedyouth.org/contact/) with the subject: "FundedYouth Docs Question"
+
+---
+
+## **Coming Soon...**
+
+Learn about the latest projects we are working on at FundedYouth. These projects range from new implementations to services we considering.
+
+
+### Working on :hammer:
+
+??? example "Remix Challenges"
+
+    The [Remix Challenge](../../Tutorials/Remix_Challenge/) is a weekly recreation of an existing 3D object for print that we found. Once we find a model to our liking, we attempt to recreate it and 3D print it. Once the 3D print is proven we create a step-by-step tutorial on how to create it yourself. We also make sure to give full credit to the original author.
+
+??? example "3D Printing MVP Track"
+
+    Design a Full Educationla Track that takes students from beginner to intermediate level of producing an MVP (Minimum Viable Product) using 3D Printing, Slicing, CAD Design, and Team Development.
+
+    - **Course 1:** Intro to 3D Printing and Slicing with Sovol and Cura
+    - **Course 1.5:** Intro to Bambulabs 3D Printing
+    - **Course 2:** Intro Modeling for 3D Printing using TinkerCAD.com
+    - **Course 3:** Intro to CAD with OnShape. Designing for 3D Printing
+    - **Course 4:** Team and Client Simulation. Produce an MVP.
+
+
+    ![3D Printing MVP Track](../../assets/Measurable-Investment-MVP-FundedYouth-Edu.svg)
+
+### Completed
+
+??? success "Sovol and Cura L1 Certificate"
+
+    Design a four stage course that teaches the basics of the Sovol SV06 Plus 3D Printer, Introduce Cura Slicing Software, Cover Adhesion and Supports, Finish with a Digital Exam. Provide a certificate upon completion. Certificate provides access to [Open Labs](../Open_Labs/).
+
+### Retired
+
+??? failure "Title"
+
+    This is a placeholder
