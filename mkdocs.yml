@@ -36,7 +36,6 @@ theme:
     # - navigation.path
     - search.suggest
     - search.highlight
-    # - toc.integrate
     - content.code.annotation
     - content.code.copy
     - content.tabs.link
