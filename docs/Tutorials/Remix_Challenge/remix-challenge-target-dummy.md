@@ -1,9 +1,9 @@
-# Dummy Remix Challenge
+# Target Dummy Remix Challenge
 
 ??? info "About Remix Challenges"
     Welcome the Remix Challenges. We find an existing 3D file and generate a walkthough tutorial so you can recreate it yourself. All of our remixes are designed to be printed. We'll provide video and proof of the printed version.
 
-## Original
+## Original Creator
 
 ??? quote "Original Creator Info"
     ![](https://cdn.thingiverse.com/assets/22/2e/66/3b/a5/large_display_target_render2.jpg){ width="300" }
@@ -13,7 +13,7 @@
     - **Date:** March 11, 2022
     - **URL:** https://www.thingiverse.com/thing:5294269
 
-## **Full Video**
+## **Video Walkthrough**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0cwV9C5Uro?si=CuPaZrxRYUfKNma1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -155,3 +155,35 @@ For this tutorial we will be making a Target Dummy using the TinkerCAD tool. We 
     </video>
 
     ### Create Sword
+
+53. Finally, let's create the sword and insert into the hand. Unlike the shield, the sword will not be apart of the hand. Instead we'll make it so you can add anything to this hand.
+
+    ![The Sword](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-TheSword.png)
+
+54. To create the sword, first add a `roof` to the workplane and resize it to: `20mm x 10mm x 3mm`
+55. Rotate it `90°` degrees
+56. Add a box to the workplace and resize it to: `35mm x 20mm x 3mm`
+57. Align it to the roof so they are touching
+58. Duplicate the box and scale in the reverse direction of the roof out `3mm` from the blade. This will be the hilt.
+59. Insert cylinder and resize it to: `3mm x 15mm x 3mm` and align it to the hilt in the center and the top of the hilt.
+60. Duplicate the roof, change it to a `hole` and align it to the bottom of blade box.
+61. Now move it right so the tip is inline with right-side of the blade box.
+62. Scale it upwards past the roof a little. It should extend over the roof a little as well.
+63. Duplicate this `holed roof` and move it to the left side like it was mirrored.
+64. Group all the objects to create a sword.
+65. Now rotate the sword `90°` degress and align it to the left hand.
+66. Make the left-hand temporarily holed so you can see where you a positioning the sword.
+67. Place the sword handle in the center on the left-hand and then move it further left so it doesn't overlap with the current hole in the hand where the arm goes.
+68. Ungroup the sword and duplicate the handle. Change the duplicate to hole and resize to: `3.5mm x 3.5mm`. Make sure the it is vertically long enough to go through the hand.
+69. Align it to the center of the handle.
+70. Group the `holed` handle and the hand to create hold in the hand for the sword to go.
+71. Group the objects of the sword to make it one object again.
+
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateTheSword.mp4" type="video/mp4">
+    </video>
+
+!!! tip "You're finished. Way to go!!!"
+
+    Now you just have send it to the printer. We used Ultimaker Cura with a Sovol SV07 Plus to print this for our example.

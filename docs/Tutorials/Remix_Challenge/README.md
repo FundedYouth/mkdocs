@@ -9,4 +9,4 @@ title: Browse
 
 # Available Challenges
 
-- [Target Dummy | October 8th, 2024](./remix-challenge-dummy.md)
+- [Target Dummy | October 8th, 2024](./remix-challenge-target-dummy.md)
