@@ -57,4 +57,81 @@ For this tutorial we will be making a Target Dummy using the TinkerCAD tool. We 
 
     ### Add Arms and Chest
 
-13.
+13. After creating the body we need add the arms and chest area. The chest area will make it easier to print the body.
+
+    ![Add Arms and Chest](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-ArmsAndChestV2.png)
+
+
+14. Before we create the box, we will flatten the front and back of the body. This will make it possible and easier to print the body. This will also help us when we create the arms.
+15. Create Box and make it a hole. Then make the box big enough to cover the body.
+16. Place the Holed Box in front of the body and set it over the chest and into the cylnder bottom area a little bit.
+17. Duplicate this Holed Box and move it to the back. The body should contain a Holed Box on the Front and Back so that the front and back look exactly the same.
+18. Now group the Holed Boxes and Body. Thereby creating a flat chest and back.
+
+19. Now, Create the arms using a Box. Set the dimensions.
+20. Align the Rectangular Box to the back of the body and in the center to the body.
+21. Move the Rectangular Box up to the middle of the sphere so it looks like arms are coming out.
+22. Do not group it yet. We need it to stay ungrouped so we can create the hands.
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-ArmsAndChest.mp4" type="video/mp4">
+    </video>
+
+    ### Make a Head
+
+23. Before we create the hands let's add the head.
+
+    <pre> <!-- PRE is used as adding white space -->
+
+
+    </pre>
+
+
+    ![Head](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-Head.png)
+
+24. Set the given dimensions in the picture and align it to the top of the base post.
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateHead.mp4" type="video/mp4">
+    </video>
+
+    ### Create Hands
+
+25. Creating the hands is one of the most difficult parts of this tutorial.
+
+    ![Creating the Hand](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-Hands.png)
+
+26. To make the hand, the easiet step is to duplicate the arms block and then scale it `15mm` in from the right outwards.
+27. Now, scale this new boxes width and height to `3.75mm x 3.75mm`
+28. Duplicate this box and set the new box dimensions to the size of the picture.
+29. Center align the new box to the smaller box and set the new box as hole so you can see all the objects.
+30. Set the bigger boxes radius to `2`
+31. Move the smaller boxes end to the center of the larger box.
+32. Dupicate the smaller box again and this time make it large enough to cut off a small section of the hand. The desired effect is to make it flat on the side where the arm is inserted. - Watch the video
+33. Now make the outer box solid and group the three boxes.
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateTheHand.mp4" type="video/mp4">
+    </video>
+
+    ### Make the Body and Head Spinnable
+
+34. We've got our first hand. Our next step is to make it so the body and head can spin on the base post.
+
+    ![Spinnable Body and Head](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-BodyAndHead-Spinnable.png){width="300"}
+
+35. For the next couple of steps we are going to duplicate existing parts and ungroup others and then regroup.
+36. First dupicate the base unit with the post and then hide the duplicate.
+37. Select the original base unit and ungroup it.
+38. Delete the flat base and pill, leaving the long tall tube.
+39. Change the long tall tube to a hole and resise the tube to `6mm x 6mm` and align it to the center of the head.
+40. Group the body and arm rectangular block into one object
+41. Turn the body and head into holed texture so you can see the long tube.
+42. Scale the long tube so that it goes about `70%` in the head and all that way through bottom of the body.
+43. Duplicate the long tube, set the head to Solid and group the duplicate long tube and head, cutting out a tube section in the head.
+44. Change the body from holed to solid and select both the body and the other holed long tube and group them so that body has a hole going completly through it.
+45. Unhide the base unit you hid earlier and temporarily make the body and head a holed type so you can see base post going through them.
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-BodyAndHead-Spinnable.mp4" type="video/mp4">
+    </video>
