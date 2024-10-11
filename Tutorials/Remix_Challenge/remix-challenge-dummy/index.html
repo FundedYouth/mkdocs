@@ -1111,48 +1111,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Guided Tutorial">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#create-the-base-unit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Base Unit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#add-the-support-rod" class="md-nav__link">
-    <span class="md-ellipsis">
-      Add the Support Rod
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-dummies-head" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Dummies Head
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-dummies-body" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Dummies Body
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
 </li>
       
     </ul>
@@ -1479,48 +1437,6 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Guided Tutorial">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#create-the-base-unit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Base Unit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#add-the-support-rod" class="md-nav__link">
-    <span class="md-ellipsis">
-      Add the Support Rod
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-dummies-head" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Dummies Head
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#create-the-dummies-body" class="md-nav__link">
-    <span class="md-ellipsis">
-      Create the Dummies Body
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
 </li>
       
     </ul>
@@ -1559,93 +1475,22 @@
 
 <h2 id="guided-tutorial"><strong>Guided Tutorial</strong></h2>
 <p>For this tutorial we will be making a Target Dummy using the TinkerCAD tool. We will print this a Sovol SV06 Plus 3D Printer.</p>
+<p><img alt="Full Preview in TinkerCAD" src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-TinkerCAD-Full-Preview.png" /></p>
 <ol>
 <li>To begin, open a browser and go to TinkerCAD.com</li>
+<li>Login and create a new project. Name it: <strong>Target Dummy</strong></li>
 <li>
-<p>Login and create a new project. Name it: <strong>Target Dummy</strong></p>
-<h3 id="create-the-base-unit"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2zm1-8h8.5L11 16.5l1.42 1.42L18.34 12l-5.92-5.92L11 7.5l3.5 3.5H6z"/></svg></span> Create the Base Unit</h3>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/B0cwV9C5Uro?start=115&end=187;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>The step in the project is to create the base post that the Target Dummy will spin around when the shield is hit.</p>
+<p><img alt="Target Dummy Base Post" src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-BasePost.png" /></p>
 </li>
 <li>
-<p>The first piece we will create is the base with the center post stopping point. Drag in a cylinder to the stage and resize it using the following dimensions.</p>
-<div class="language-py highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="n">width</span>   <span class="p">[</span><span class="n">x</span><span class="p">]:</span> <span class="mi">40</span> <span class="n">mm</span>
-</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="n">length</span>  <span class="p">[</span><span class="n">y</span><span class="p">]:</span> <span class="mi">40</span> <span class="n">mm</span>
-</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="n">height</span>  <span class="p">[</span><span class="n">z</span><span class="p">]:</span> <span class="mi">4</span> <span class="n">mm</span>
-</span></code></pre></div>
-<h3 id="add-the-support-rod"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2zm1-8h8.5L11 16.5l1.42 1.42L18.34 12l-5.92-5.92L11 7.5l3.5 3.5H6z"/></svg></span> Add the Support Rod</h3>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/B0cwV9C5Uro?start=187&end=436" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>These three parts are each created from a Cylinder.</p>
 </li>
 <li>
-<p>Now, duplicate the cylinder and resize the duplicate to:</p>
-<div class="language-py highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="n">width</span>   <span class="p">[</span><span class="n">x</span><span class="p">]:</span> <span class="mf">5.25</span> <span class="n">mm</span>
-</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="n">length</span>  <span class="p">[</span><span class="n">y</span><span class="p">]:</span> <span class="mf">5.25</span> <span class="n">mm</span>
-</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="n">height</span>  <span class="p">[</span><span class="n">z</span><span class="p">]:</span> <span class="mi">50</span> <span class="n">mm</span>
-</span></code></pre></div>
-</li>
-<li>
-<p>Center the tall cylinder to the base plate.</p>
-</li>
-<li>
-<p>Duplicate the long cylinder, change it's color (not required), and resize it to:</p>
-<div class="language-py highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="n">width</span>   <span class="p">[</span><span class="n">x</span><span class="p">]:</span> <span class="mi">7</span> <span class="n">mm</span>
-</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="n">length</span>  <span class="p">[</span><span class="n">y</span><span class="p">]:</span> <span class="mi">7</span> <span class="n">mm</span>
-</span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="n">height</span>  <span class="p">[</span><span class="n">z</span><span class="p">]:</span> <span class="mi">12</span> <span class="n">mm</span>
-</span></code></pre></div>
-</li>
-<li>
-<p>Now expand the setting for this third cylinder and set:</p>
-<div class="language-py highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="n">Sides</span><span class="p">:</span> <span class="mi">64</span>
-</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="n">Bevel</span><span class="p">:</span> <span class="mf">2.5</span>
-</span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="n">Segments</span><span class="p">:</span> <span class="mi">1</span>
-</span></code></pre></div>
-</li>
-<li>
-<p>Now align all three cylinders to the center of the base unit and to the bottom of the base unit.</p>
-<h3 id="create-the-dummies-head"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2zm1-8h8.5L11 16.5l1.42 1.42L18.34 12l-5.92-5.92L11 7.5l3.5 3.5H6z"/></svg></span> Create the Dummies Head</h3>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/B0cwV9C5Uro?start=436&end=589" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-</li>
-<li>
-<p>Next, let's add the Head by Duplicating the long cylinder. It helps to recolor it.</p>
-</li>
-<li>
-<p>Set the dimensions and settings of this new object to:</p>
-<div class="language-py highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="n">width</span>   <span class="p">[</span><span class="n">x</span><span class="p">]:</span> <span class="mi">16</span> <span class="n">mm</span>
-</span><span id="__span-4-2"><a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="n">length</span>  <span class="p">[</span><span class="n">y</span><span class="p">]:</span> <span class="mi">16</span> <span class="n">mm</span>
-</span><span id="__span-4-3"><a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a><span class="n">height</span>  <span class="p">[</span><span class="n">z</span><span class="p">]:</span> <span class="mi">19</span> <span class="n">mm</span>
-</span><span id="__span-4-4"><a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a>
-</span><span id="__span-4-5"><a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="n">Sides</span><span class="p">:</span> <span class="mi">12</span>
-</span><span id="__span-4-6"><a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="n">Bevel</span><span class="p">:</span> <span class="mf">2.5</span>
-</span><span id="__span-4-7"><a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a><span class="n">Segments</span><span class="p">:</span> <span class="mi">1</span>
-</span></code></pre></div>
-</li>
-<li>
-<p>Align it to the center-top of the long cylinder. Then temporarily turn it from a solid to a hole. We do this so we can see where it's physically located to other objects.</p>
-</li>
-<li>
-<p>Move it vertically up so the long cylinder end is in the middle of it.</p>
-<h3 id="create-the-dummies-body"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2zm1-8h8.5L11 16.5l1.42 1.42L18.34 12l-5.92-5.92L11 7.5l3.5 3.5H6z"/></svg></span> Create the Dummies Body</h3>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/B0cwV9C5Uro?start=589&end=846" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-</li>
-<li>
-<p>With the head created, the next step is to begin creating the body.</p>
-</li>
-<li>
-<p>The body is made up of four shapes. A cylinder for the lower body and four spheres for the upper. Let's create the upper first.</p>
-</li>
-<li>
-<p>Add a sphere and align it to the center of the long cylnders which is apart of the base. Align it to the top and drag it down a little bit.</p>
-</li>
-<li>
-<p>Squish the sphere front and back while still retaining the rounded features on the sides.</p>
-</li>
-<li>
-<p>Duplicate the sphere and convert to a hole. Drag it up toward the top of the solid sphere. Stop the bottom of it right before the shoulders or where you imagine the shoulders would be.</p>
-</li>
-<li>
-<p>Duplicate he solid spear once more and change it's color. Squish from top to bottom.</p>
-</li>
-<li>
-<p>Now group the Solid Sphere with the Hold Sphere. Then move the squished sphere you just created upwards into the new holed out area and shrink it down so it looks like part of a body.</p>
+<p>Once they are each created and sized correctly, align them to the center and base of the large flat one. We'll call this the <strong>Base Cylinder</strong></p>
+<p><video controls>
+<source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateBasePost.mp4" type="video/mp4">
+</video></p>
 </li>
 </ol>
 
