@@ -135,3 +135,23 @@ For this tutorial we will be making a Target Dummy using the TinkerCAD tool. We 
     <video controls>
     <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-BodyAndHead-Spinnable.mp4" type="video/mp4">
     </video>
+
+    ### Duplicate Hand and Sheid
+
+46. Before we create the shield let's duplicate the hand place it on the other end of the arm bar.
+
+47. Now create a shield using a Cylinder.
+48. Set it to `30mm x 30mm x 3mm`
+49. Align it to the hand on the right. You could do this on the left but it doesn't matter because the hands are interchangable.
+50. Make it so the shield is up again the hand and then place it about `1mm` into the hand.
+51. Align the shield to the left of the hand than slightly move the shield to the left of the hand by a 2 to 3 mm.
+52. Group the Hand and Shield together.
+
+    ![Create Shield](https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateShield.png){width="500"}
+
+
+    <video controls>
+    <source src="https://02df933100-endpoint.azureedge.net/wpblob02df933100/wp-content/uploads/2024/10/TargetDummy-CreateShield.mp4" type="video/mp4">
+    </video>
+
+    ### Create Sword
