@@ -11,3 +11,6 @@
 .md-tabs {
     opacity: 0.9;
 }
+.md-nav__link {
+    color: rgb(34, 34, 34) !important;
+}
