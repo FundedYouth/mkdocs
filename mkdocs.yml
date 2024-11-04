@@ -33,6 +33,7 @@ theme:
     # - navigation.top
     - navigation.tabs
     - navigation.indexes
+    - navigation.sections/
     # - navigation.path
     - search.suggest
     - search.highlight
@@ -82,3 +83,12 @@ copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</sc
 
 extra_css:
   - stylesheets/style.css
+
+
+# nav:
+#   - 'Welcome': 'README.md'
+#   - 'Tutorials': './Tutorials'
+#   - 'Instructors': './Instructors'
+#   - 'Nonprofit': './Nonprofit'
+#   - 'Blog': './blog'
+
