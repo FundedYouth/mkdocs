@@ -30,10 +30,11 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
-    # - navigation.top
-    - navigation.tabs
+    - navigation.top
+    # - navigation.tabs
     - navigation.indexes
-    - navigation.sections/
+    - navigation.sections
+    # - navigation.instant
     # - navigation.path
     - search.suggest
     - search.highlight
@@ -85,10 +86,22 @@ extra_css:
   - stylesheets/style.css
 
 
-# nav:
-#   - 'Welcome': 'README.md'
-#   - 'Tutorials': './Tutorials'
-#   - 'Instructors': './Instructors'
-#   - 'Nonprofit': './Nonprofit'
-#   - 'Blog': './blog'
+nav:
+  - 'Welcome': 'README.md'
+  # - 'Instructors': './Instructors'
+  - 'Nonprofit':
+    - 'Get Started': './Nonprofit'
+    - 'Open Labs': './Nonprofit/Open_Labs'
+    - 'Branding': './Nonprofit/Branding'
+    - 'External Services': './Nonprofit/External_Services'
+    - 'Members and Meetings': './Nonprofit/Board_Members'
+    - 'Pricing Models': ''
+  - 'Tutorials':
+    - 'Overview': './Tutorials'
+    - 'Remix Challenges': './Tutorials/Remix_Challenge'
+    - 'Hardware': './Tutorials/Hardware_Setup'
+    - 'TinkerCAD': './Tutorials/TinkerCAD'
+    # - 'OnShape': ''
+    # - 'Lasercraft': ''
+  - 'Blog': './blog'
 
